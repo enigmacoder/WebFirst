@@ -1,0 +1,19 @@
+html,body{
+    height:100%;
+    width:100%;
+}
+#Grid_Value{
+    margin-bottom:25px;
+}
+
+#wrapper{
+    width:1024px;
+    height:1024px;
+}
+.unit{
+    width:62px;
+    height:62px;
+    margin:1px;
+    background-color:#8AA4FD;
+    float:left;
+}
